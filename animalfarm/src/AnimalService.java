@@ -60,21 +60,32 @@ class AnimalService
 
     private void consultWikipedia()
     {
-        URL url = new URL(
-                "http://en.wikipedia.org/w/index.php?action=raw&title="
-                        + _animal);
-        URLConnection connection = url.openConnection();
-        BufferedReader in = new BufferedReader(new InputStreamReader(
-                connection.getInputStream()));
-        StringBuilder sb = new StringBuilder();
-        String inputLine;
-        while ((inputLine = in.readLine()) != null)
+        try
         {
-            sb.append(inputLine);
-            sb.append('\n');
+            URL url = new URL(
+                    "http://en.wikipedia.org/w/index.php?action=raw&title="
+                            + _animal);
+            URLConnection connection = url.openConnection();
+            BufferedReader in = new BufferedReader(new InputStreamReader(
+                    connection.getInputStream()));
+            StringBuilder sb = new StringBuilder();
+            String inputLine;
+            while ((inputLine = in.readLine()) != null)
+            {
+                sb.append(inputLine);
+                sb.append('\n');
+            }
+            in.close();
+            _description = sb.toString();
         }
-        in.close();
-        _description = sb.toString();
+        catch (MalformedURLException ex)
+        {
+            throw new AssertionError("http should always work, review code");
+        }
+        catch (IOException ex)
+        {
+            _description = "Internet problems. ";
+        }
     }
 
     private void resolveRedirect()
