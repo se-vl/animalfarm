@@ -21,7 +21,7 @@ class AnimalService
         _animals = new HashMap<>();
     }
 
-    public String describe(String givenAnimal) throws IOException
+    public String describe(String givenAnimal) throws EncyclopediaException
     {
         _animal = givenAnimal;
         normalizeAnimal();
@@ -58,13 +58,13 @@ class AnimalService
 
     private static final Pattern whitespaceStrings = Pattern.compile("\\s++");
 
-    private void consultWikipedia() throws IOException
+    private void consultWikipedia() throws EncyclopediaException
     {
+        String urlString = "http://en.wikipedia.org/w/index.php?action=raw&title="
+                + _animal;
         try
         {
-            URL url = new URL(
-                    "http://en.wikipedia.org/w/index.php?action=raw&title="
-                            + _animal);
+            URL url = new URL(urlString);
             URLConnection connection = url.openConnection();
             BufferedReader in = new BufferedReader(new InputStreamReader(
                     connection.getInputStream()));
@@ -82,9 +82,14 @@ class AnimalService
         {
             throw new AssertionError("http should always work, review code");
         }
+        catch (IOException ex)
+        {
+            throw new EncyclopediaException(_animal, urlString,
+                    "Internet problems");
+        }
     }
 
-    private void resolveRedirect() throws IOException
+    private void resolveRedirect() throws EncyclopediaException
     {
         Matcher matcher = redirects.matcher(_description);
         if (matcher.matches())

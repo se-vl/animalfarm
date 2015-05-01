@@ -1,4 +1,3 @@
-import java.io.IOException;
 import java.util.Scanner;
 
 class REPL
@@ -46,9 +45,9 @@ class REPL
             String description = _animalService.describe(_line);
             System.out.println(description);
         }
-        catch (IOException ex)
+        catch (EncyclopediaException ex)
         {
-            System.out.println("There appears to be a problem with the Internet connection!");
+            System.out.println(ex.getMessage());
         }
     }
 }
