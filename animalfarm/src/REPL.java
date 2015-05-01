@@ -1,3 +1,4 @@
+import java.io.IOException;
 import java.util.Scanner;
 
 class REPL
@@ -40,7 +41,14 @@ class REPL
 
     private void processLine()
     {
-        String description = _animalService.describe(_line);
-        System.out.println(description);
+        try
+        {
+            String description = _animalService.describe(_line);
+            System.out.println(description);
+        }
+        catch (IOException ex)
+        {
+            System.out.println("There appears to be a problem with the Internet connection!");
+        }
     }
 }

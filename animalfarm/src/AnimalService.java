@@ -21,7 +21,7 @@ class AnimalService
         _animals = new HashMap<>();
     }
 
-    public String describe(String givenAnimal)
+    public String describe(String givenAnimal) throws IOException
     {
         _animal = givenAnimal;
         normalizeAnimal();
@@ -58,7 +58,7 @@ class AnimalService
 
     private static final Pattern whitespaceStrings = Pattern.compile("\\s++");
 
-    private void consultWikipedia()
+    private void consultWikipedia() throws IOException
     {
         try
         {
@@ -82,13 +82,9 @@ class AnimalService
         {
             throw new AssertionError("http should always work, review code");
         }
-        catch (IOException ex)
-        {
-            _description = "Internet problems. ";
-        }
     }
 
-    private void resolveRedirect()
+    private void resolveRedirect() throws IOException
     {
         Matcher matcher = redirects.matcher(_description);
         if (matcher.matches())
