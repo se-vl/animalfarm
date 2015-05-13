@@ -1,0 +1,375 @@
+{{Redirect|Cow}}
+{{Other uses}}
+{{Use dmy dates|date=July 2014}}
+{{Pp-semi|small=yes}}{{pp-move-indef}}
+{{Taxobox
+| name = Cattle
+| status = DOM
+| image = CH cow 2.jpg
+| image_width = 250px
+| image_caption = A Swiss [[Braunvieh]] cow wearing a [[cowbell]]
+| regnum = [[Animal]]ia
+| phylum = [[Chordate|Chordata]]
+| subclassis = [[Theria]]
+| infraclassis = [[Eutheria]]
+| classis = [[Mammal]]ia
+| ordo = [[Artiodactyla]]
+| familia = [[Bovidae]]
+| subfamilia = [[Bovinae]]
+| genus = ''[[Bos]]''
+| species = ''B. taurus''
+| binomial = '''''Bos taurus'''''
+| binomial_authority = [[Carolus Linnaeus|Linnaeus]], 1758
+| synonyms = ''Bos primigenius'', <br />''Bos indicus''
+| range_map = Bovine range-2013-14-02.png
+| range_map_caption = Bovine range
+
+}}
+'''Cattle'''—colloquially '''cows'''{{refn|group=note|The noun ''cattle'' (which is treated as a plural and has no singular) encompasses both sexes. The singular, ''cow'', unambiguously means the female, the male being ''bull''. The plural feminine form ''cows'' is sometimes used colloquially to refer to both sexes collectively, as ''e.g.'' in a herd, but that usage can be misleading as the speaker's intent may indeed be just the females. The bovine species ''per se'' is clearly dimorphic.}}—are the most common type of large [[domestication|domesticated]] [[ungulates]].  They are a prominent modern member of the [[subfamily]] [[Bovinae]], are the most widespread species of the [[genus]] ''[[Bos]]'', and are most commonly classified collectively as '''''Bos taurus'''''.  Cattle are raised as [[livestock]] for meat ([[beef]] and [[veal]]), as [[dairy cattle|dairy animals]] for [[milk]] and other [[dairy product]]s, and as draft animals ([[ox]]en or bullocks that pull [[cart]]s, [[plow]]s and other implements). Other products include [[leather]] and [[Cow dung|dung]] for [[manure]] or [[fuel]]. In some regions, such as parts of India, [[Cattle in religion|cattle have significant religious meaning]].  From as few as 80 progenitors domesticated in southeast Turkey about 10,500 years ago,<ref name="HowNowCow">Bollongino, Ruth & al. ''[[Molecular Biology and Evolution]]''. "[http://mbe.oxfordjournals.org/content/early/2012/03/14/molbev.mss092 Modern Taurine Cattle descended from small number of Near-Eastern founders]". 7 Mar 2012. Accessed 2 Apr 2012. Op. cit. in Wilkins, Alasdair. ''[[io9]]''. "[http://io9.com/5897169/dna-reveals-that-cows-were-almost-impossible-to-domesticate?tag=archaeology DNA reveals that cows were almost impossible to domesticate]". 28 Mar 2012. Accessed 2 Apr 2012.</ref> according to an estimate from 2003, there are 1.3 billion cattle in the world.<ref name="Breeds of Cattle at CATTLE TODAY">{{cite web|author=Cattle Today |url=http://cattle-today.com/ |title=Breeds of Cattle at CATTLE TODAY |publisher=Cattle-today.com |accessdate=15 October 2013}}</ref> In 2009, cattle became the first livestock animal to have a fully mapped [[Bovine genome|genome]].<ref name="Cattle genome">{{cite news |url=http://www.washingtonpost.com/wp-dyn/content/article/2009/04/23/AR2009042303453.html |title=Scientists Unravel Genome of the Cow |publisher=[[The Washington Post]] |date=23 April 2009 |accessdate=23 April 2009 | first=David | last=Brown}}</ref>
+
+== Taxonomy ==
+{{See also|Bos|Bovinae}}
+Cattle were originally identified as three separate species: ''Bos taurus'', the [[taurine cattle|European or "taurine" cattle]] (including similar types from Africa and Asia); ''Bos indicus'', the [[zebu]]; and the extinct ''Bos primigenius'', the [[aurochs]]. The aurochs is ancestral to both zebu and taurine cattle.{{citation needed|date=May 2015}} Now, these have been reclassified as one species, ''Bos taurus'', with three subspecies: ''Bos taurus primigenius'', ''Bos taurus indicus'', and ''Bos taurus taurus''.<ref name=MSW3>{{MSW3|id=14200687|heading=''Bos taurus''}}</ref><ref>{{ITIS|ID=183838|taxon=''Bos taurus''|accessdate=9 May 2015}}</ref>
+
+[[File:Zubron2.jpg|thumb|130px|left|[[Żubroń]], a cross between [[European bison|wisent]] and cattle]]
+Complicating the matter is the ability of cattle to interbreed with other closely related species. Hybrid individuals and even breeds exist, not only between taurine cattle and zebu (such as the [[sanga cattle]], ''Bos taurus africanus''), but also between one or both of these and some other members of the [[genus]] ''[[Bos]]''{{spaced ndash}}[[yak]]s (the [[dzo]] or yattle<ref>[http://www.washingtonpost.com/wp-dyn/content/article/2007/08/10/AR2007081002119.html "Yattle What?"], ''Washington Post'', 11 August 2007</ref>), [[banteng]], and [[gaur]]. Hybrids such as the [[beefalo]] breed can even occur between taurine cattle and either species of [[bison]], leading some authors to consider them part of the genus ''Bos'', as well.<ref>Groves, C. P., 1981. Systematic relationships in the Bovini (Artiodactyla, Bovidae). ''Zeitschrift für Zoologische Systematik und Evolutionsforschung'', '''4''':264–278., quoted in {{MSW3 Artiodactyla|id=14200668|heading= Genus ''Bison''}}</ref> The hybrid origin of some types may not be obvious – for example, [[genetic testing]] of the [[Dwarf Lulu]] breed, the only taurine-type cattle in Nepal, found them to be a mix of taurine cattle, zebu, and yak.<ref>{{cite journal | last = Takeda | first = Kumiko | title = Mitochondrial DNA analysis of Nepalese domestic dwarf cattle Lulu | journal = Animal Science Journal | volume = 75 | issue = 2 | pages = 103–110 | publisher = Blackwell Publishing |date=April 2004 | url = http://www.blackwell-synergy.com/links/doi/10.1111%2Fj.1740-0929.2004.00163.x | doi = 10.1111/j.1740-0929.2004.00163.x | accessdate = 7 November 2006 |display-authors=etal}}</ref> However, cattle cannot successfully be hybridized with more distantly related bovines such as [[water buffalo]] or [[African buffalo]].
+
+The aurochs originally ranged throughout Europe, [[North Africa]], and much of Asia. In historical times, its range became restricted to Europe, and the last known individual died in [[Masovia]], Poland, in about 1627.<ref>Van Vuure, C.T. 2003. ''De Oeros – Het spoor terug'' (in Dutch), Cis van Vuure, Wageningen University and Research Centrum: quoted by [http://www.petermaas.nl/extinct/speciesinfo/aurochs.htm The Extinction Website: ''Bos primigenius primigenius''.]</ref> Breeders have attempted to recreate cattle of similar appearance to aurochs by crossing traditional types of domesticated cattle, creating the [[Heck cattle]] breed.
+
+== Etymology ==
+''Cattle'' did not originate as the term for bovine animals. It was borrowed from [[Anglo-Norman language|Anglo-Norman]] {{lang|xno|''catel''}}, itself from medieval Latin {{lang|la|''capitale''}} 'principal sum of money, capital', itself derived in turn from Latin {{lang|la|''caput''}} 'head'. ''Cattle'' originally meant movable [[personal property]], especially livestock of any kind, as opposed to [[real property]] (the land, which also included wild or small free-roaming animals such as chickens — they were sold as part of the land).<ref>{{cite web |url=http://www.etymonline.com/index.php?term=cattle |title=Cattle |accessdate = 13 June 2007 |last=Harper |first=Douglas |year=2001 |work=Online Etymological Dictionary}}; "cattle, n." OED Online. Oxford University Press, September 2014. Web. 6 December 2014.</ref> The word is a variant of ''[[Personal property|chattel]]'' (a unit of personal property) and closely related to ''[[capital (economics)|capital]]'' in the economic sense.<ref>{{cite web |url=http://www.etymonline.com/index.php?term=chattel |title=Chattel |accessdate = 13 June 2007 |last=Harper |first=Douglas |year=2001 |work=Online Etymological Dictionary}}; {{cite web |url=http://www.etymonline.com/index.php?term=capital |title=Capital |accessdate = 13 June 2007 |last=Harper |first=Douglas |year=2001 |work=Online Etymological Dictionary}}; "cattle, n." OED Online. Oxford University Press, September 2014. Web. 6 December 2014.</ref> The term replaced earlier [[Old English]] {{lang|ang|''feoh''}} 'cattle, property', which survives today as ''fee'' (cf. {{Lang-de|Vieh}}, {{Lang-nl|vee}}, {{Lang-got|faihu}}).
+
+The word "cow" came via [[Anglo-Saxon language|Anglo-Saxon]] {{lang|ang|''cū''}} (plural ''cȳ''), from [[Common Indo-European]] {{PIE|''gʷōus''}} ([[genitive]] {{PIE|''gʷowés''}}) = "a bovine animal", compare [[Persian language|Persian]] {{lang|per|''gâv''}}, [[Sanskrit]] {{lang|san|''go-''}}, [[Welsh language|Welsh]] {{lang|cy|''buwch''}}.<ref>"cow, n.1." OED Online. Oxford University Press, September 2014. Web. 6 December 2014.</ref> The plural ''cȳ'' became ''ki'' or ''kie'' in Middle English, and an additional plural ending was often added, giving ''kine'', ''kien'', but also ''kies'', ''kuin'' and others. This is the origin of the now archaic English plural of "kine". The [[Scots language]] singular is coo or [[:sco:Cou|cou]], and the plural is "kye".
+
+In older English sources such as the [[King James Version]] of the [[Bible]], "cattle" refers to livestock, as opposed to "deer" which refers to wildlife.  "Wild cattle" may refer to [[Feral organism|feral]] cattle or to undomesticated species of the genus ''[[Bos]]''.  Today, when used without any other qualifier, the modern meaning of "cattle" is usually restricted to domesticated bovines.<ref>"cattle, n." OED Online. Oxford University Press, September 2014. Web. 6 December 2014</ref>
+
+== Terminology ==
+{{Wiktionary|cattle|cow}}
+[[File:The Ongole Bull of Moses.jpg|thumb|An [[Ongole cattle|Ongole]] bull]]
+[[File:Hereford bull large.jpg|thumb|A [[Hereford cattle|Hereford]] bull]]
+
+In general, the same words are used in different parts of the world, but with minor differences in the definitions.  The terminology described here contrasts the differences in definition between the United Kingdom and other [[British people|British]]-influenced parts of world such as Canada, Australia, New Zealand, Ireland and the United States.<ref name="cterm">{{cite web |url=http://www.experiencefestival.com/a/Cattle_-_Terminology/id/1287270 |title=Cattle Terminology |publisher=experiencefestival.com}}</ref>
+* {{anchor|bull}}An "intact" (i.e., not [[castration|castrated]]) adult male is called a '''[[bull]]'''.  A wild, young, unmarked bull is known as a "micky" in Australia.<ref name="Coupe">Coupe, Sheena (ed.), Frontier Country, Vol. 1, Weldon Russell Publishing, Willoughby, 1989, ISBN 1-875202-01-3</ref> An un[[Livestock branding|branded]] bovine of either sex is called a "maverick" in the USA and Canada.
+* An adult female that has had a calf (or two, depending on regional usage) is a '''cow'''.
+* {{anchor|heifer}}A young female before she has had a calf of her own<ref>{{cite web | url = http://webster.com/dictionary/heifer| title = Definition of heifer| accessdate = 29 November 2006| authorlink = | work = | publisher = Merriam-Webster| pages = | language = | archiveurl = | archivedate = | quote = }}</ref> and is under three years of age is called a '''[[:wikt:heifer|heifer]]''' ({{IPAc-en|ˈ|h|ɛ|f|ər}} {{respell|HEF|ər}}).<ref name="MD">Delbridge, Arthur, The Macquarie Dictionary, 2nd ed., Macquarie Library, North Ryde, 1991</ref>  A young female that has had only one calf is occasionally called a '''first-calf heifer'''.
+* Young cattle of both sexes are called '''[[calf|calves]]''' until they are [[Weaning|weaned]], then '''weaners''' until they are a year old in some areas; in other areas, particularly with male beef cattle, they may be known as '''feeder calves''' or simply feeders.  After that, they are referred to as '''yearlings''' or '''stirks'''<ref>McIntosh, E., ''The Concise Oxford Dictionary of Current English'', Clarendon Press, 1967</ref> if between one and two years of age.<ref>{{cite web  | last = Warren  | first = Andrea  | title = Pioneer Girl: Growing Up on the Prairie  | publisher = Lexile  | format = PDF  | url = http://www.lexile.com/PowerV/Pioneer%20Girl%20Growng%20Up%20on%20the%20Prairie.pdf  | accessdate = 29 November 2006  |archiveurl = http://web.archive.org/web/20061101003533/http://www.lexile.com/PowerV/Pioneer+Girl+Growng+Up+on+the+Prairie.pdf <!-- Bot retrieved archive --> |archivedate = 1 November 2006}}</ref>
+* A castrated male is called a '''steer''' in the [[United States]]; older steers are often called '''bullocks''' in other parts of the world,<ref>Delbridge, A, et al., Macquarie Dictionary, The Book Printer, Australia, 1991</ref> but in North America this term refers to a young bull.  Piker bullocks are micky bulls (uncastrated young male bulls) that were caught, castrated and then later lost.<ref name="Coupe" />  In Australia, the term "Japanese ox" is used for grain-fed steers in the weight range of 500 to 650&nbsp;kg that are destined for the Japanese meat trade.<ref>Meat & Livestock Australia, Feedback, June/July 2008</ref> In North America, draft cattle under four years old are called working steers.  Improper or late castration on a bull results in it becoming a coarse steer known as a '''stag''' in Australia, Canada and New Zealand.<ref>{{cite web|url=http://www.spiritwoodstockyards.ca/losemoney.html |title=Sure Ways to Lose Money on Your Cattle |publisher=Spiritwoodstockyards.ca |accessdate=15 October 2013}}</ref> In some countries, an incompletely castrated male is known also as a '''[[ridgling|rig]]'''.
+* A castrated male (occasionally a female or in some areas a bull) kept for draft purposes is called an '''[[ox]]''' (plural oxen); "ox" may also be used to refer to some carcass products from any adult cattle, such as ox-hide, ox-blood, oxtail, or ox-liver.<ref name="MD" />
+* A '''springer''' is a cow or heifer close to calving.<ref>[http://beef.unl.edu/FAQ/200509030.shtml FAQs: What is meant by springer cows and heifers?], Dr. Rick Rasby, Professor of Animal Science, University of Nebraska – Lincoln, 6 September 2005. Retrieved: 12 August 2010.</ref>
+* In all cattle species, a female twin of a bull usually becomes an infertile partial [[intersex]], and is called a '''[[freemartin]]'''.
+* Neat (horned oxen, from which [[neatsfoot oil]] is derived), beef (young ox) and beefing (young animal fit for slaughtering) are obsolete terms, although '''poll, pollard''' or '''[[polled livestock|polled cattle]]''' are still terms in use for naturally hornless animals, or in some areas also for those that have been [[disbudding|disbudded]] or [[dehorning|dehorned]].
+* Cattle raised for human consumption are called '''[[beef cattle]]'''. Within the American beef cattle industry, the older term beef (plural beeves) is still used to refer to an animal of either sex. Some Australian, Canadian, New Zealand and British people use the term '''beast''', especially for single animals when the sex is unknown.<ref>[http://www.campdraft.com.au/our_sport.htm Australians Camdraft Assoc.] Retrieved on 31 July 2009</ref>
+* Cattle bred specifically for milk production are called '''milking or [[dairy cattle]]''';<ref name="cterm" /> a cow kept to provide milk for one family may be called a '''[[house cow]]''' or '''milker'''. A '''"fresh cow"''' is a [[dairy]] term for a cow or first-calf heifer who has recently given birth, or "freshened."
+* The adjective applying to cattle in general is usually '''bovine'''. The terms "bull", "cow" and "calf" are also used by extension to denote the sex or age of other large animals, including [[whale]]s, [[hippopotamus]]es, [[camel]]s, [[elk]] and [[elephant]]s.
+
+{{See also|List of animal names}}
+
+=== Singular terminology issue ===
+Cattle can only be used in the [[plural]] and not in the [[Grammatical number|singular]]: it is a [[plurale tantum]].<ref name=OED1>{{OED|Cattle (5, 6)}}</ref> Thus one may refer to "three cattle" or "some cattle", but not "one cattle". No universally used singular form in modern English of "cattle" exists, other than the sex- and age-specific terms such as cow, bull, steer and heifer.  Historically, "ox" was not a sex-specific term for adult cattle, but generally this is now used only for [[Ox|draft cattle]], especially adult castrated males. The term is also incorporated into the names of other species, such as the [[musk ox]] and "grunting ox" ([[yak]]), and is used in some areas to describe certain cattle products such as ox-hide and [[oxtail]].<ref name=OED2>{{OED|Ox (1, 2)}}</ref>
+
+[[File:Brahman Baby.jpg|thumb|A [[Brahman (cattle)|Brahman]] calf]]
+"Cow" is in general use as a singular for the collective "cattle", despite the objections by those who insist it to be a female-specific term. Although the phrase "that cow is a bull" is absurd from a lexicographic standpoint, the word "cow" is easy to use when a singular is needed and the sex is unknown or irrelevant – when "there is a cow in the road", for example. Further, any herd of fully mature cattle in or near a [[pasture]] is statistically likely to consist mostly of cows, so the term is probably accurate even in the restrictive sense.  Other than the few bulls needed for breeding, the vast majority of male cattle are castrated as calves and slaughtered for meat before the age of three years.  Thus, in a pastured herd, any calves or herd bulls usually are clearly distinguishable from the cows due to distinctively different sizes and clear anatomical differences. Merriam-Webster, a US dictionary, recognizes the sex-nonspecific use of "cow" as an alternate definition,<ref>{{cite web|url=http://www.merriam-webster.com/dictionary/cow |title=Merriam Webster Online |publisher=Merriam-webster.com |date=31 August 2012 |accessdate=15 October 2013}}</ref> whereas Collins, a UK dictionary, does not.
+
+[[Colloquial]]ly, more general non[[species|specific]] terms may denote cattle when a singular form is needed. Australian, New Zealand and British farmers use the term "beast" or "cattle beast". "Bovine" is also used in Britain. The term "critter" is common in the western United States and Canada, particularly when referring to young cattle.<ref>{{cite web|url=http://www.thefreedictionary.com/critter |title="Critter," definition 2 |publisher=Thefreedictionary.com |accessdate=15 October 2013}}</ref> In some areas of the American South (particularly the Appalachian region), where both dairy and beef cattle are present, an individual animal was once called a "beef critter", though that term is becoming [[Archaism|archaic]].
+
+=== Other terminology ===
+{{listen |filename=Mudchute cow 1.ogg |title=A cow's moo }}
+Cattle raised for human consumption are called "[[beef cattle]]". Within the beef cattle industry in parts of the United States, the term "beef" (plural "beeves") is still used in its archaic sense to refer to an animal of either sex. Cows of certain breeds that are kept for the milk they give are called "[[dairy cow]]s" or "milking cows" (formerly "milch cows").  Most young male offspring of dairy cows are sold for [[veal]], and may be referred to as veal calves.
+
+The term "dogies" is used to describe orphaned calves in the context of ranch work in the [[Western United States|American West]], as in "Keep them dogies moving".<ref>{{cite web |url=http://www.tahc.state.tx.us/news/pr/1999/1999.08_CattleMove.pdf |title=Keep Those Dogies Movin! |accessdate = 28 June 2008 |last=Beales |first=Terry |year=1999 |work=[[Texas Animal Health Commission]] News Release|format=PDF |archiveurl = http://web.archive.org/web/20080602151855/http://www.tahc.state.tx.us/news/pr/1999/1999.08_CattleMove.pdf <!-- Bot retrieved archive --> |archivedate = 2 June 2008}}</ref> In some places, a cow kept to provide milk for one family is called a "house cow".  Other obsolete terms for cattle include "neat" (this use survives in "[[neatsfoot oil]]", extracted from the feet and legs of cattle), and "beefing" (young animal fit for [[slaughter (livestock)|slaughter]]).
+
+An [[onomatopoeia|onomatopoeic]] term for one of the most common [[List of animal sounds|sounds]] made by cattle is "moo" (also called ''lowing''). There are a number of other sounds made by cattle, including calves ''bawling'', and bulls ''bellowing''. Bawling is most common for cows after weaning of a calg. The [[Bullroarer (music)|bullroarer]] makes a sound similar to a bull's territorial call.<ref>{{Cite web|url = http://www1.agric.gov.ab.ca/$department/deptdocs.nsf/all/faq10691|title = Bawling in Cattle|date = |accessdate = 2015-05-05|website = |publisher = |last = |first = }}</ref>
+
+== Anatomy ==
+[[File:Hand milking a cow at Cobbes Farm Museum.jpg|thumb|upright|[[Dairy farming]] and the milking of cattle was once performed largely by hand, but is now [[Milking machine|usually replaced by machine]]]]
+Cattle are large [[quadrupedal]] [[ungulate]] [[mammal]]s with [[cloven hooves]]. Most breeds have [[horn (anatomy)|horns]], which can be as large as the [[Texas Longhorn]] or small like a [[scur]]. Careful genetic selection has allowed [[polled livestock|polled]] (hornless) cattle to become widespread.
+
+Cattle are [[ruminant]]s, meaning their [[digestive system]] is highly specialized to allow the use of poorly digestible plants as food. Cattle have one [[stomach]] with four compartments, the [[rumen]], [[Reticulum (anatomy)|reticulum]], [[omasum]], and [[abomasum]], with the rumen being the largest compartment. Cattle are known for [[regurgitation (digestion)|regurgitating]] and re-chewing their food, known as "[[cud]]" chewing.
+The reticulum, the smallest compartment, is known as the "honeycomb". Cattle sometimes consume metal objects which are deposited in the reticulum and irritation from the metal objects causes [[hardware disease]]. The omasum's main function is to absorb water and nutrients from the digestible feed. The omasum is known as the "many plies". The abomasum is like the human stomach; this is why it is known as the "true stomach". The [[cud]] is then swallowed again and further digested by specialized [[microorganism]]s in the rumen. These microbes are primarily responsible for decomposing [[cellulose]] and other [[carbohydrate]]s into [[volatile fatty acids]] cattle use as their primary [[metabolic]] fuel. The microbes inside the rumen also synthesize [[amino acid]]s from non-protein [[nitrogen]]ous sources, such as [[urea]] and [[ammonia]]. As these microbes reproduce in the rumen, older generations die and their cells continue on through the digestive tract. These cells are then partially digested in the small intestines, allowing cattle to gain a high-quality protein source. These features allow cattle to thrive on [[Poaceae|grasses]] and other [[vegetation]].
+
+===Gestation and size===
+The [[gestation period]] for a cow is about nine months long. A newborn calf's size can vary among breeds, but a typical calf typically weighs {{convert|25|to|45|kg|lb|0|abbr=on}}. Adult size and weight vary significantly among breeds and sex. The world record for the heaviest bull was {{convert|1740|kg|lb|-1|abbr=on}}, a [[Chianina]] named Donetto, when he was exhibited at the [[Arezzo]] show in 1955.<ref>Friend, John B., Cattle of the World, Blandford Press, Dorset, 1978</ref> The heaviest steer was eight-year-old ‘Old Ben’, a [[Shorthorn]]/[[Hereford Cattle|Hereford]] cross weighing in at {{convert|2140|kg|lb|-1|abbr=on}} in 1910.<ref>McWhirter, Norris & Ross, ''Guinness Book of Records'', Redwood Press, Trowbridge, 1968</ref> Steers are generally killed before reaching {{convert|750|kg|lb|-1|abbr=on}}. Breeding stock may be allowed a longer lifespan, occasionally living as long as 25 years. The oldest recorded cow, [[Big Bertha (cow)|Big Bertha]], died at the age of 48 in 1993.
+
+===Sight===
+A common misconception about cattle (particularly bulls) is that they are enraged by the color red (something provocative is often said to be "like a red flag to a bull"). This is incorrect, as cattle are red-green [[color-blind]].<ref>[http://www.itla.net/index.cfm?sec=Longhorn_Information&con=handling Itla.net], Longhorn information – handling.</ref><ref>{{cite web |url=http://iacuc.tennessee.edu/pdf/Policies-AnimalCare/Cattle-BasicCare.pdf |title=? |publisher=iacuc.tennessee.edu |archiveurl=http://web.archive.org/web/20080216023758/http://iacuc.tennessee.edu/pdf/Policies-AnimalCare/Cattle-BasicCare.pdf |archivedate=2008-02-16}}</ref> The myth arose from the use of red capes in [[bullfighting]]; in fact, two different capes are used. The ''[[Torero|capote]]'' is a large, flowing, magenta and yellow cape. The more famous ''[[muleta]]'' is the smaller, red cape, used exclusively for the final, fatal segment of the fight. It is not the color of the cape that angers the bull, but rather the movement of the fabric that irritates the bull and incites it to charge.
+
+Having two kinds of [[color receptors]] in the [[cone cells]] in their [[retina]]s, cattle are [[Dichromacy|dichromatic]], as are most other non-primate land mammals.<ref>Jacobs, G. H., J. F.Deegan, and J. Neitz. 1998. Photopigment basis for dichromatic [[color vision]] in cows, goats and sheep. ''Vis. Neurosci''.
+'''15''':581–584</ref><ref>Perception of Color by Cattle and its Influence on Behavior
+C.J.C. Phillips* and C. A. Lomas†2 ''J. Dairy Sci''. '''84''':807–813</ref>
+
+===Udder===
+A cow's [[udder]] contains two pairs of [[mammary gland]]s, (commonly referred to as ''teats'') creating four "quarters".<ref>{{Cite book|title = The Family Cow Handbook|last = Hasheider|first = Phillip|publisher = |year = |isbn = 0760340676|location = |pages = }}</ref> The front ones are referred to as ''fore quarters'' and the rear ones ''rear quarters''.<ref>{{Cite web|url = https://www.uvm.edu/extension/agriculture/faccp/files/aglabor_bilingual/milk_quality_posters.pdf|title = Udder Structure & Disease|date = 2015-05-06|accessdate = |website = UVM|publisher = |last = |first = }}</ref>
+
+===Male genitalia===
+{{further|Bull#Reproductive anatomy}}
+Bulls become fertile at about seven months of age.  Their fertility is closely related to the size of their [[testicle]]s, and one simple test of fertility is to measure the circumference of the scrotum: a young bull is likely to be fertile once this reaches {{convert|28|cm|in|0}}; that of a fully adult bull may be over {{convert|40|cm|in|0}}.<ref>{{cite web|url=http://www.nt.gov.au/d/Content/File/p/Anim_Dis/747.pdf |title=G Jayawardhana (2006), ''Testicle Size – A Fertility Indicator in Bulls'', Australian Government Agnote K44. |format=PDF |date= |accessdate=6 August 2012}}</ref><ref>{{cite web|url=http://www.reproduction-online.org/cgi/reprint/59/2/447.pdf |title=A P Carter, P D P Wood and Penelope A Wright (1980), Association between scrotal circumference, live weight and sperm output in cattle, ''Journal of Reproductive Fertility'', '''59''', pp 447–451. |format=PDF |date= |accessdate=6 August 2012}}</ref>
+
+Bulls have a fibro-elastic penis. Given the small amount of erectile tissue, there is little enlargement after erection. The penis is quite rigid when non-erect, and becomes even more rigid during erection. Protrusion is not affected much by erection, but more by relaxation of the [[retractor penis muscle]] and straightening of the [[sigmoid flexure]].<ref name="Sarkar">{{cite book| last =Sarkar| first = A.| title = Sexual Behaviour In Animals| publisher = Discovery Publishing House| year = 2003|url=http://books.google.com/books?id=bsCiWUiPY5UC&printsec=frontcover#v=onepage&q=bull&f=false | isbn = 978-81-7141-746-9}}</ref><ref>{{cite book|url=http://books.google.com/books?id=naSWWxJLcd0C&printsec=frontcover#v=onepage&q=bull%20sigmoid%20flexure&f=false |title=Functional Anatomy and Physiology of Domestic Animals – William O. Reece – Google Boeken |publisher=Books.google.com |date=4 March 2009|accessdate=2 December 2012|isbn=9780813814513}}</ref><ref>{{cite book|url=http://books.google.com/books?id=7Z9o_vGPP4cC&printsec=frontcover#v=onepage&q=bull%20sigmoid%20flexure&f=false |title=Modern Livestock and Poultry Production – James R. Gillespie, Frank B. Flanders – Google Boeken |publisher=Books.google.com |date=28 January 2009|accessdate=2 December 2012|isbn=1428318089}}</ref>
+
+== Weight ==
+Adult weights of cattle always depend on the breed. Smaller kinds, such as Dexter and Jersey adults, range between {{convert|272|to|454|kg|lb|abbr=on}}. Large Continental breeds, such as Charolais, Marchigiana, Belgian Blue and Chianina, adults range up to {{convert|635|to|1134|kg|lb|abbr=on}}. British-breeds, such as Hereford, Angus, and Shorthorn, mature between  {{convert|454|to|907|kg|lb|abbr=on}}, occasionally higher, particularly with Angus and Hereford.<ref>{{Cite web|url = http://www.cattlenetwork.net/breeds/hereford.htm|title = Hereford cattle weight|date = |accessdate = |website = |publisher = |last = |first = }}</ref>
+
+Bulls will be a bit larger than cows of the same breed by a few hundred kilograms. Chianina bulls can weigh up to  {{convert|1500|kg|lb|abbr=on}}; British bulls, such as Angus and Hereford, can weigh as little as {{convert|907|kg|lb|abbr=on}} to as much as {{convert|1361|kg|lb|abbr=on}}.{{citation needed|date=December 2014}}
+
+It is difficult to generalize or average out the weight of all cattle because different kinds have different averages of weights. However, according to some sources, the average weight of all cattle is {{convert|753|kg|lb|abbr=on}}.  Finishing steers in the feedlot average about {{convert|640|kg|lb|abbr=on}}; cows about {{convert|725|kg|lb|abbr=on}}, and bulls about {{convert|1090|kg|lb|abbr=on}}.<ref>{{Cite web|url = http://www.fao.org/wairdocs/ilri/x5522e/x5522e0b.htm|title = FAO Cattle Weights|date = |accessdate = 2015-05-05|website = FAO|publisher = |last = |first = }}</ref>
+
+In the United States, the average weights of beef cattle have steadily increased, especially since the 1970s, requiring the building of new slaughterhouses able to handle larger carcasses. New packing plants in the 1980s stimulated a large increase in cattle weights.<ref>Kenneth H. Mathews – 1999 – U.S. Beef Industry: Cattle Cycles, Price Spreads, and Packer concentration. Page 6</ref> Before 1790 beef cattle averaged only {{convert|350|lb|disp=flip|abbr=on}} net; and thereafter weights climbed steadily.<ref>American Economic Growth and Standards of Living before the Civil War, Robert E. Gallman, John Joseph Wallis – 2007 p248</ref><ref>{{Cite web|url = http://beefmagazine.com/genetics/0201-increased-beef-cows|title = Cattle increasing in size|date = |accessdate = 2015-05-05|website = Beef Magazine|publisher = |last = |first = }}</ref>
+
+== Cattle genome ==
+{{Further|Bovine genome}}
+In the 24 April 2009, edition of the journal ''Science'', a team of researchers led by the National Institutes of Health and the [[United States Department of Agriculture|US Department of Agriculture]] reported having mapped the [[bovine genome]].<ref name="Cattle genome yahoo">{{cite news |url=http://news.yahoo.com/s/ap/20090423/ap_on_sc/us_sci_bovine_basics |title=Cow genome unraveled in bid to improve meat, milk |agency=Associated Press |date=23 April 2009 |accessdate=23 April 2009 |archiveurl=https://web.archive.org/web/20090427191147/http://news.yahoo.com/s/ap/20090423/ap_on_sc/us_sci_bovine_basics |archivedate=2009-04-27}}</ref>  The scientists found cattle have about 22,000 genes, and 80% of their genes are shared with humans, and they share about 1000 genes with dogs and rodents, but are not found in humans. Using this bovine "HapMap", researchers can track the differences between the breeds that affect the quality of [[meat]] and [[milk]] yields.<ref>{{cite news|last=Gill |first=Victoria |url=http://news.bbc.co.uk/2/hi/science/nature/8014598.stm |title=BBC: Cow genome 'to transform farming' |publisher=BBC News |date=23 April 2009 |accessdate=15 October 2013}}</ref>
+
+== Domestication and husbandry ==
+[[File:Texas Longhorn.jpg|thumb|left|[[Texas Longhorn]]s are a US breed]]
+Cattle occupy a unique role in [[History of the world|human history]], domesticated since at least the early [[Neolithic]].
+
+Geneticists and anthropologists used to suspect that, 10,000 years ago, Africans domesticated local cattle. A study done by [[University of Missouri]] researchers reported that ancient domesticated African cattle originated from multiple regions, in the middle-east and India.<ref>McTavish, Decker, et al.,[http://www.pnas.org/content/110/15/E1398.short New World cattle show ancestry from multiple independent domestication events], 2013</ref> A study on 134 breeds showed that today's cattle originates from Africa, Asia, North and South America, Australia, and Europe.<ref>Decker, et al., [http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1004254 Worldwide Patterns of Ancestry, Divergence, and Admixture in Domesticated Cattle], 2014</ref> According to McTavish et (2013) some researchers have suggested that African taurine cattle are derived from a third independent domestication from North African aurochsen.<ref>McTavish et al. 2013. New World cattle.. PNAS v110, n15</ref>
+
+Other genetic research suggests the entire modern domestic stock of [[taurine cattle]] may have arisen from as few as 80 [[aurochs]] tamed in the upper reaches of [[Mesopotamia]] about 10,500 years ago near the villages of [[Çayönü Tepesi]] in southeastern Turkey and [[Dja'de el-Mughara]] in northern [[Iraq]].<ref name="HowNowCow" />
+
+Cattle are raised for [[meat]] ([[beef cattle]]), [[dairy cattle|dairy products]] and [[hides]]. They are also used as [[draft animal]]s and in certain [[sport]]s. Some consider cattle the oldest form of wealth, and [[cattle raiding]] consequently one of the earliest forms of theft.
+
+[[File:Cattle inspected for ticks.jpg|thumb|This Hereford is being inspected for [[tick]]s; cattle are often restrained or confined in [[cattle crush]]es (squeeze chutes) when given medical attention.]]
+[[File:Anneau anti tetee P1190486.jpg|thumb|This young bovine has a [[Nose ring (animal)|nose ring]] to prevent it from suckling, which is usually to assist in [[weaning]].]]
+Cattle are often raised by allowing herds to [[Grass fed beef|graze on the grasses]] of large tracts of [[rangeland]]. Raising cattle in this manner allows the use of land that might be unsuitable for growing crops. The most common interactions with cattle involve daily [[cattle feeding|feeding]], cleaning and [[milking]]. Many routine husbandry practices involve [[ear tag]]ging, [[Livestock dehorning|dehorning]], loading, [[Veterinary surgery|medical operations]], vaccinations and [[Cloven hoof|hoof]] care, as well as training for agricultural shows and preparations. Also, some [[Cultural identity|cultural differences]] occur in working with cattle; the cattle husbandry of Fulani men rests on [[Ethology|behavioural techniques]], whereas in Europe, cattle are controlled primarily by physical means, such as [[fence]]s.<ref>{{cite journal | last = Lott | first = Dale F. |author2=Hart, Benjamin L. | title = Applied ethology in a nomadic cattle culture | journal = Applied Animal Ethology | volume = 5 | issue = 4 | pages = 309–319 | publisher = Elsevier B.V. |date=October 1979 | doi = 10.1016/0304-3762(79)90102-0 }}</ref>  Breeders use cattle husbandry to reduce [[Mycobacterium bovis|''M. bovis'' infection]] susceptibility by [[selective breeding]] and maintaining herd health to avoid concurrent disease.<ref>{{cite journal | author = Krebs JR, Anderson T, Clutton-Brock WT | title = Bovine tuberculosis in cattle and badgers: an independent scientific review | publisher = Ministry of Agriculture, Fisheries and Food | year=  1997 | url = http://www.defra.gov.uk/animalh/tb/publications/hpanel.pdf | format = PDF | accessdate = 4 September 2006 |archiveurl=https://web.archive.org/web/20040722232232/http://www.defra.gov.uk/animalh/tb/publications/hpanel.pdf |archivedate=2004-07-22|display-authors=etal}}</ref>
+
+Cattle are farmed for beef, veal, dairy, and leather, and they are less commonly used for [[conservation grazing]], simply to maintain grassland for wildlife – for example, in [[Epping Forest]], England. They are often used in some of the most wild places for livestock. Depending on the breed, cattle can survive on hill grazing, heaths, marshes, moors and semidesert. Modern cattle are more commercial than older breeds and, having become more specialized, are less versatile. For this reason, many smaller farmers still favor old breeds, such as the [[Jersey cattle|Jersey]] dairy breed.
+In Portugal, Spain, [[southern France]] and some Latin American countries, bulls are used in the activity of [[bullfighting]];  ''[[Jallikattu]]'' in India is a bull taming sport radically different from European bullfighting, humans are unarmed and bulls are not killed. In many other countries bullfighting is illegal. Other activities such as [[bull riding]] are seen as part of a [[rodeo]], especially in North America. [[Bull-leaping]], a central ritual in [[Bronze Age]] [[Minoan civilization|Minoan]] culture (see [[Bull (mythology)]]), still exists in southwestern [[France]].  In modern times, cattle are also entered into [[Cattle judging|agricultural competitions]]. These competitions can involve live cattle or cattle carcases in hoof and hook events.
+
+In terms of food intake by humans, consumption of cattle is less efficient than of grain or vegetables with regard to [[land use]], and hence cattle grazing consumes more area than such other agricultural production when raised on grains.<ref name="Wilson">Edward O. Wilson, ''The Future of Life'', 2003, Vintage Books, 256 pages ISBN 0-679-76811-4</ref> Nonetheless, cattle and other forms of domesticated animals can sometimes help to use plant resources in areas not easily amenable to other forms of [[agriculture]].
+
+=== Sleep ===
+{{Further2|[[Sleep (non-human)]]}}
+The average sleep time of a domestic cow is about four hours a day.<ref>"40 Winks?" Jennifer S. Holland,'' National Geographic'' Vol. 220, No. 1. July 2011.</ref>
+
+== Economy ==
+[[File:Cow female black white.jpg|thumb|[[Holstein cattle]] are the primary dairy breed, bred for high milk production.]]
+The [[meat]] of adult cattle is known as [[beef]], and that of [[calf|calves]] is [[veal]].  Other animal parts are also used as food products, including [[blood]], [[liver]], [[kidney]], [[heart]] and [[oxtail]].  Cattle also produce [[milk]], and [[dairy cattle]] are specifically bred to produce the large quantities of milk processed and sold for human consumption. Cattle today are the basis of a multi-billion dollar industry worldwide. The [[international trade]] in beef for 2000 was over $30 billion and represented only 23% of world beef production.<ref>(Clay 2004).</ref> The production of milk, which is also made into [[cheese]], [[butter]], [[yogurt]], and other dairy products, is comparable in economic size to beef production, and provides an important part of the food supply for many of the world's people. Cattle hides, used for [[leather]] to make [[shoe]]s, [[couch]]es and [[clothing]], are another widespread product.  Cattle remain broadly used as draft animals in many [[Developing country|developing countries]], such as India.
+
+===Cattle meat production===
+
+{| class="wikitable"
+|+Cattle meat production (kt)
+!       !! 2008 !! 2009 !! 2010 !! 2011
+|-
+| Argentina || 3132 || 3378 || 2630 || 2497
+|-
+| Australia || 2132 || 2124 || 2630 || 2420
+|-
+| Brazil || 9024 || 9395 || 9115 || 9030
+|-
+| China || 5841 || 6060 || 6244 || 6182
+|-
+| Germany || 1199|| 1190 || 1205 || 1170
+|-
+| Japan || 520 || 517 || 515 || 500
+|-
+| USA || 12163 || 11891 || 12046 || 11988
+|}
+
+Source: Helgi Library,<ref name="Cattle Meat Production">| http://helgilibrary.com/indicators/index/cattle-meat-production Cattle Meat Production | 12 February 2014</ref> World Bank, FAOSTAT
+
+About half the world's meat comes from cattle.<ref>Rickard, G., & Book, I. (1999). Bovids:useful ruminants. In Investigating God's world (3rd ed.). Pensacola, Fla.: A Beka Book.</ref>
+
+=== Dairy ===
+{{main|Dairy cattle|Dairy farming|Dairy}}
+Certain breeds of cattle, such as the [[Holstein-Friesian]], are used to produce milk.<ref name=ukcows>{{Cite web|url = http://ukcows.com/holsteinUK/publicweb/Education/HUK_Edu_DairyCows.aspx?cmh=66|title = UK Dairy Cows|date = |accessdate = 7 May 2015|website = |publisher = |last = |first = }}</ref><ref name=":0" /> Which can be processed into dairy products such as [[milk]], [[cheese]] or [[yogurt]]. Dairy cattle are usually kept on specialized dairy farms designed for milk production. Most cows are milked twice per day, with milk processed at a dairy, which may be onsite at the farm or the milk may be shipped to a dairy plant for eventual sale of a dairy product.<ref name="dairy science">{{Cite web|url = http://www.journalofdairyscience.org/article/S0022-0302%2879%2983526-2/abstract|title = Milking 3 Times per day|date = |accessdate = |website = |publisher = |last = |first = }}</ref> For dairy cattle to continue producing milk, they must give birth to one calf per year. If the calf is male, it generally is slaughtered at a young age to produce [[veal]].<ref>{{Cite web|url = http://www.ciwf.org.uk/farm-animals/cows/veal-calves/|title = Veal and the Dairy Industry|date = |accessdate = 9 May 2015|website = Compassion in World Farming|publisher = |last = |first = }}</ref> They will continue to produce milk until three weeks before birth.<ref name=":0">{{Cite web|url = http://www.ciwf.org.uk/farm-animals/cows/dairy-cows/|title = Compassion in World Farming: Dairy Cattle|date = |accessdate = 7 May 2015|website = |publisher = |last = |first = }}</ref> Over the last fifty years, dairy farming has become more intensive to increase the yield of milk produced by each cow. The [[Holstein-Friesian]] is the breed of dairy cow most common in the [[UK]], [[Europe]] and the [[USA]]. It has been bred selectively to produce the highest yields of milk of any cow. Around 22 litres per day is average in the UK.<ref name=ukcows/><ref name=":0" />
+
+=== Hides ===
+
+== Feral cattle ==
+[[Feral organism|Feral]] cattle are defined as being 'cattle that are not domesticated or cultivated'.<ref>{{Cite web|url = http://www.merriam-webster.com/dictionary/feral|title = Definition of Feral cattle|date = |accessdate = 4/5/2015|website = |publisher = |last = |first = }}</ref> Populations of feral cattle are known to come from and exist in: [[Australia]], [[United States of America]], [[Colombia]], [[Argentina]], [[Spain]], [[France]] and many islands, including [[New Guinea]], [[Hawaiian Islands|Hawaii]], [[Galapagos]], [[Juan Fernández Islands]], [[Hispaniola]] ([[Dominican Republic]] and [[Haiti]]), [[Tristan da Cunha]] and [[Île Amsterdam]].<ref name="MSW3Bostaurus" />
+
+== Environmental impact ==
+{{See also|Environmental effects of meat production}}
+[[File:CSIRO ScienceImage 1672 Cattle in dry landscape.jpg|thumb|upright|Cattle in dry landscape north of [[Alice Springs]], Australia (CSIRO)]]
+[[File:2013-06-28 15 48 26 Cattle on Elko County Route 747 (Deeth-Charleston Road) near the Bruneau River in Elko County in Nevada.jpg|thumb|Cattle near the [[Bruneau River]] in [[Elko County, Nevada]]]]
+A report from the [[Food and Agriculture Organization]] (FAO) states that the livestock sector is "responsible for 18% of greenhouse gas emissions".<ref name=Steinfeld>Steinfeld, H. et al. 2006,  Livestock’s Long Shadow: Environmental Issues and Options.  Livestock, Environment and Development, FAO.</ref>  The report concludes, unless changes are made, the damage thought to be linked to livestock may more than double by 2050, as demand for meat increases. Another concern is [[manure]], which if not well-managed, can lead to adverse environmental consequences. However, manure also is a valuable source of nutrients and organic matter when used as a fertilizer.<ref>{{cite web|url=http://www.fao.org/ag/againfo/programmes/en/lead/toolbox/Tech/20ManMgn.htm |title=Manure management |publisher=Fao.org |accessdate=15 October 2013}}</ref>  Manure was used as a fertilizer on about 15.8 million acres of US cropland in 2006, with manure from cattle accounting for nearly 70% of manure applications to soybeans and about 80% or more of manure applications to corn, wheat, barley, oats and sorghum.<ref>McDonald, J. M. et al. 2009. Manure use for fertilizer and for energy. Report to Congress. USDA, AP-037. 53pp.</ref>  Substitution of manure for synthetic fertilizers in crop production can be environmentally significant, as between 43 and 88 [[megajoule]]s of fossil fuel energy would be used per kg of nitrogen in manufacture of synthetic nitrogenous fertilizers.<ref>Shapouri, H. et al. 2002. The energy balance of corn ethanol: an update. USDA Agricultural Economic Report 814.</ref>
+
+One of the cited changes suggested to reduce greenhouse gas emissions is intensification of the livestock industry, since intensification leads to less land for a given level of production. This assertion is supported by studies of the US beef production system, suggesting practices prevailing in 2007 involved 8.6% less fossil fuel use, 16.3% less greenhouse gas emissions, 12.1% less water use, and 33.0% less land use, per unit mass of beef produced, than those used in 1977.<ref>Capper, J. L.  2011.  The environmental impact of beef production in the United States:  1977 compared with 2007.  J. Anim. Sci. 89: 4249–4261</ref>  However, these numbers included not only [[feedlot]]s, but also [[feed production]], forage-based [[cow-calf operation]]s, backgrounding before cattle enter a feedlot, and animals culled from the dairy industry.<ref>{{cite web|url=http://www.ers.usda.gov/publications/ldp/LDGTables.htm |title=SlaughterCounts (Excel file) |publisher=Ers.usda.gov |accessdate=15 October 2013}}</ref>
+
+The number of American cattle kept in confined feedlot conditions fluctuates. From 1 January 2002 through 1 January 2012, there was no significant overall upward or downward trend in the number of US cattle on feed for slaughter, which averaged about 14.046 million head over that period.<ref name=USDA201176>USDA. 2011.  Agricultural Statistics 2011.  US Government Printing Office, Washington. 509 pp.  Table 7.6.</ref><ref name=USDA2012Catt>USDA. 2012.  Cattle. http://usda01.library.cornell.edu/usda/current/Catt/Catt-01-27-2012.pdf</ref>  Previously, the number had increased; it was 12.453 million in 1985.<ref>USDA 1994.  Agricultural Statistics 1994.  US Government Printing Office, Washington. 485 pp. Table 377.</ref> Cattle on feed (for slaughter) numbered about 14.121 million on 1 January 2012, i.e. about 15.5% of the estimated inventory of 90.8 million US cattle (including calves) on that date.  Of the 14.121 million, US cattle on feed (for slaughter) in operations with 1000 head or more were estimated to number 11.9 million.<ref name=USDA2012Catt /> Cattle feedlots in this size category correspond to the regulatory definition of "large" [[concentrated animal feeding operations]] (CAFOs) for cattle other than mature dairy cows or veal calves.<ref name=40CFR122>US Code of Federal Regulations 40 CFR 122.23</ref>  Significant numbers of dairy, as well as beef cattle, are confined in CAFOs, defined as "new and existing operations which stable or confine and feed or maintain for a total of 45 days or more in any 12-month period more than the number of animals specified"<ref>{{cite web|url=http://www.sustainabletable.org/issues/factoryfarming/ |title="What is a Factory Farm?" Sustainable Table |publisher=Sustainabletable.org |accessdate=15 October 2013}}</ref> where "[c]rops, vegetation, forage growth, or post-harvest residues are not sustained in the normal growing season over any portion of the lot or facility."<ref>US Code of Federal Regulations 40 CFR 122</ref>  They may be designated as small, medium and large. Such designation of cattle CAFOs is according to cattle type (mature dairy cows, veal calves or other) and cattle numbers, but medium CAFOs are so designated only if they meet certain discharge criteria, and small CAFOs are designated only on a case-by-case basis.<ref name=size>{{cite web|url=http://www.epa.gov/npdes/pubs/sector_table.pdf |title="Regulatory Definitions of Large CAFOs, Medium CAFO, and Small CAFOs." Environmental Protection Agency Fact Sheet. |format=PDF |accessdate=15 October 2013}}</ref>
+
+A CAFO that discharges pollutants is required to obtain a permit, which requires a plan to manage nutrient runoff, manure, chemicals, contaminants, and other wastewater pursuant to the [[Clean Water Act]].<ref>US Code of Federal Regulations 40 CFR 122.23, 40 CFR 122.42</ref> The regulations involving CAFO permitting have been extensively litigated.<ref>[http://scholar.google.com/scholar_case?case=4003887446881112013&q=National+Pork+Producers+Council+v+epa&hl=en&as_sdt=2,27&as_vis=1 ''See, e.g.,  Waterkeeper Alliance et al. v. EPA'', 399 F.3d 486 (2nd cir. 2005); ''National Pork Producers Council, et al. v. United States Environmental Protection Agency'', 635 F. 3d 738 (5th Cir. 2011)].</ref>
+Commonly, CAFO wastewater and manure nutrients are applied to land at agronomic rates for use by forages or crops, and it is often assumed that various constituents of wastewater and manure, e.g. organic contaminants and pathogens, will be retained, inactivated or degraded on the land with application at such rates; however, additional evidence is needed to test reliability of such assumptions
+.<ref>Bradford, S. A., E. Segal, W. Zheng, Q. Wang, and S. R. Hutchins.  2008.  Reuse of concentrated animal feeding operation wastewater on agricultural lands.  J. Env. Qual. 37 (supplement): S97-S115.</ref>  Concerns raised by opponents of CAFOs have included risks of contaminated water due to [[feedlot]] runoff,<ref name=Koelsch>{{cite web|url=http://www.cals.ncsu.edu/waste_mgt/natlcenter/sanantonio/balvanz.pdf |title=APPLYING ALTERNATIVE TECHNOLOGIES TO CAFOS: A CASE STUDY Richard Koelsch, Carol Balvanz, John George, Dan Meyer, John Nienaber, Gene Tinker |format=PDF |accessdate=15 October 2013}}</ref> soil erosion, human and animal exposure to toxic chemicals, development of [[antibiotic resistant bacteria]] and an increase in ''[[E. coli]]'' contamination.<ref>{{cite web|url=http://web.missouri.edu/~ikerdj/papers/Fairfield%20IA%20-%20Economics%20of%20CAFOs.htm |title=Ikerd, John. The Economics of CAFOs & Sustainable Alternatives |publisher=Web.missouri.edu |accessdate=15 October 2013}}</ref>  While research suggests some of these impacts can be mitigated by developing wastewater treatment systems<ref name=Koelsch /> and planting cover crops in larger setback zones,<ref>{{cite web|url=http://dda.delaware.gov/nutrients/Draft_TechStandards/CAFO_BMPassessment.pdf |title=Hansen, Dave, Nelson, Jennifer and Volk, Jennifer. Setback Standards and Alternative Compliance Practices to Satisfy CAFO Requirements: An assessment for the DEF-AG group |format=PDF |accessdate=15 October 2013}}</ref> the [[Union of Concerned Scientists]] released a report in 2008 concluding that CAFOs are generally unsustainable and [[Cost externalizing|externalize costs]].<ref name=UCS>{{cite web|url=http://www.ucsusa.org/assets/documents/food_and_agriculture/cafos-uncovered.pdf |title=Gurian-Sherman, Doug. CAFOs Uncovered: The Untold Costs of Confined Animal Feeding Operations |format=PDF |accessdate=15 October 2013}}</ref>
+
+An estimated 935,000 cattle operations were operating in the USA in 2010.<ref name=USDA201171>USDA. 2011.  Agricultural Statistics 2011.  US Government Printing Office, Washington. 509 pp.  Table 7.1.</ref> In 2001, the US Environmental Protection Agency (EPA) tallied 5,990 cattle CAFOs then regulated, consisting of beef (2,200), dairy (3,150), heifer (620) and veal operations (20).<ref>EPA. 2001.  Environmental and economic benefit analysis of proposed revisions to the National Pollutant Discharge Elimination System Regulation and the effluent guidelines for concentrated animal feeding operations.  US Environmental Protection Agency.  EPA-821-R-01-002.  157 pp.</ref> Since that time, the EPA has established CAFOs as an enforcement priority.  EPA enforcement highlights for fiscal year 2010 indicated enforcement actions against 12 cattle CAFOs for violations that included failures to obtain a permit, failures to meet the terms of a permit, and discharges of contaminated water.<ref>{{cite web|url=http://www.epa.gov/compliance/data/planning/priorities/cwacafo.html |title=Clean Water Act (CWA) Concentrated Animal Feeding Operations National Enforcement Initiative |publisher=Epa.gov |accessdate=15 October 2013}}</ref>
+
+[[File:Cattle at Velika Planina, Slovenia.jpg|thumb|300px|Cattle grazing in a high-altitude environment at [[Velika Planina]], Slovenia]]
+
+Grazing by cattle at low intensities can create a favourable environment for native [[herb]]s and [[forb]]s; in many world regions, though, cattle are reducing [[biodiversity]] due to [[overgrazing]].<ref>E.O. Wilson, ''The Future of Life'', 2003, Vintage Books, 256 pages ISBN 0-679-76811-4</ref>  A survey of refuge managers on 123 National Wildlife Refuges in the US tallied 86 species of wildlife considered positively affected and 82 considered negatively affected by refuge cattle grazing or haying.<ref>Strassman, B. I. 1987. Effects of cattle grazing and haying on wildlife conservation at National Wildlife Refuges in the United States. Environmental Mgt. 11: 35–44 .</ref> Proper management of pastures, notably [[managed intensive rotational grazing]] and grazing at low intensities can lead to less use of fossil fuel energy, increased recapture of carbon dioxide, fewer ammonia emissions into the atmosphere, reduced soil erosion, better air quality, and less water pollution.<ref name="UCS" />
+
+Some [[microbe]]s in the cattle gut carry out anaerobic process known as [[methanogenesis]], which produces [[methane]]. Cattle and other livestock emit about 80 to 93 Tg of methane per year,<ref>IPCC.  2001.  Third Assessment Report.  Intergovernmental Panel on Climate Change. Working Group I:  The Scientific Basis.  Table 4.2</ref> accounting for an estimated 37% of anthropogenic methane emissions,<ref name="Steinfeld" /> and additional methane is produced by anaerobic fermentation of manure in [[manure lagoon]]s and other manure storage structures.<ref>US EPA.  2012.  Inventory of U.S. greenhouse gase emissions and sinks:  1990–2010. US. Environmental Protection Agency. EPA 430-R-12-001.  Section 6.2.</ref> The 100-year [[global warming]] potential of methane, including effects on ozone and stratospheric water vapor, is 25 times as great as that of carbon dioxide.<ref>IPCC. 2007. Fourth Assessment Report. Intergovernmental Panel on Climate Change</ref> Methane's effect on global warming is correlated with changes in atmospheric methane content, not with emissions.  The net change in atmospheric methane content was recently about 1 Tg per year,<ref>IPCC. 2007. Fourth Assessment Report.  Intergovernmental Panel on Climate Change.</ref>  and in some recent years there has been no increase in atmospheric methane content.<ref>Dlugokencky, E. J. et al. 2011. Global atmospheric methane: budget, changes and dangers. Phil. Trans. Royal Soc. 369: 2058–2072.</ref>  Mitigation options for reducing methane emission from ruminant [[enteric fermentation]] include genetic selection, immunization, rumen defaunation, diet modification and grazing management, among others.<ref>Boadi, D. et al. 2004. Mitigation strategies to reduce enteric methane emissions from dairy cows: Update review . Can. J. Anim. Sci. 84: 319–335.</ref><ref>Martin, C. et al. 2010. Methane mitigation in ruminants: from microbe to the farm scale. Animal 4 : pp 351–365.</ref><ref>Eckard, R. J. et al. 2010. Options for the abatement of methane and nitrous oxide from ruminant production: A review. Livestock Science 130: 47–56.</ref>  While cattle fed forage actually produce more methane than grain-fed cattle, the increase may be offset by the increased carbon recapture of pastures, which recapture three times the CO<sub>2</sub> of cropland used for grain.<ref name=UCS />
+
+== Health ==
+
+The veterinary discipline dealing with cattle and cattle diseases (bovine veterinary) is called buiatrics.<ref>{{cite web|title=Buatrics|url=http://medical-dictionary.thefreedictionary.com/buiatrics|accessdate=19 November 2013}}</ref> Veterinarians and professionals working on cattle health issues are pooled in the World Association for Buiatrics, founded in 1960.<ref>{{cite web|title=World Association for Buiatrics|url=http://www.buiatrics.com/showpage.php?p=eng_wab|accessdate=4 December 2013}}</ref> National associations and affiliates also exist.<ref>{{cite web|title=List of Countries 2012|url=http://www.buiatrics.com/showpage.php?p=eng_list|accessdate=4 December 2013}}</ref>
+
+Cattle diseases were in the center of attention in the 1980s and 1990s when the [[Bovine spongiform encephalopathy]] (BSE), also known as mad cow disease, was of concern.  Cattle might catch and develop various other diseases, like [[blackleg (disease)|blackleg]], [[bluetongue]], [[foot rot]] too.<ref>{{cite web|title=Common and important diseases of cattle|url=http://www.daff.gov.za/docs/Infopaks/commonDiseases.htm|accessdate=17 November 2013}}</ref><ref>{{cite news|title=Identification of new cattle virus will help rule out mad cow disease|url=http://news.ucdavis.edu/search/news_detail.lasso?id=10688|accessdate=17 November 2013}}</ref><ref>{{cite web|title=Cattle Diseases|url=http://edis.ifas.ufl.edu/topic_cattle_diseases|accessdate=4 December 2013}}</ref>
+
+In most state, as cattle health is not only a veterinarian issue, but also a public health issue, [[public health]] and [[food safety]] standards and farming regulations directly affect the daily work of farmers who keep cattle.<ref>{{cite web|title=Cattle Disease Guide|url=http://www.thecattlesite.com/diseaseinfo/|accessdate=4 December 2013}}</ref> However, said rules change frequently and are often debated. For instance, in the U.K., it was proposed in 2011 that milk from [[tubercolosis]]-infected cattle should be allowed to enter the food chain.<ref>{{cite news|last=Harvey|first=Fiona|title=Easing of farming regulations could allow milk from TB-infected cattle into food chain|url=http://www.theguardian.com/environment/2011/may/17/farming-regulation-tb-cattle-milk|accessdate=4 December 2013|newspaper=The Guardian|date=17 May 2011}}</ref> Internal food safety regulations might affect a country's trade policy as well. For example, the United States has just reviewed its beef import rules according to the "mad cow standards"; while Mexico forbids the entry of cattle who are older than 30 months.<ref>{{cite news|title=U.S. aligns beef rules with global mad cow standards|url=http://www.reuters.com/article/2013/11/02/us-usa-madcow-idUSBRE9A106C20131102|accessdate=4 December 2013|newspaper=Reuters|date=2 November 2013|first=Charles|last=Abbott}}</ref>
+
+[[Cow urine]] is commonly used in India for internal medical purposes.<ref>{{cite news|last=West|first=Julian|title=A gift from the gods: bottled cow's urine|url=http://www.telegraph.co.uk/news/worldnews/asia/india/1339267/A-gift-from-the-gods-bottled-cows-urine.html|work=The Telegraph|accessdate=4 December 2013|location=London|date=2 September 2001}}</ref><ref>{{cite news|title=Cow Urine as Medicine|url=http://blogs.wsj.com/indiarealtime/2010/07/29/cow-urine-as-medicine/|work=WSJ|accessdate=4 December 2013}}</ref>  It is distilled and then consumed by patients seeking treatment for a wide variety of illnesses.<ref>{{cite news|last=Esterbrook|first=John|title=Cow Urine As Panacea?|url=http://www.cbsnews.com/news/cow-urine-as-panacea/|work=CBS News|accessdate=4 December 2013}}</ref> At present, no conclusive medical evidence shows this has any effect.<ref>{{cite news |url=http://online.wsj.com/video/indian-doctors-use-cow-urine-as-medicine/6E5E9BB4-B07A-418B-AAD3-C2121AEE0928.html?mod=WSJ_Article_Videocarousel_1 |title=(video) Indian Doctors Use Cow Urine As Medicine |work=[[The Wall Street Journal]]|date= 29 July 2010 |accessdate=27 November 2010}}</ref> However, an Indian medicine containing cow urine has already obtained U.S. patents.<ref>{{cite news|title=Cow urine drug developed by RSS body gets US patent|url=http://www.indianexpress.com/news/cow-urine-drug-developed-by-rss-body-gets-us-patent/635054/|accessdate=4 December 2013|newspaper=The Indian Express|date=17 June 2010}}</ref>
+
+[[Digital dermatitis]] is caused by the bacteria from the genus Treponema. Is it different than foot rot and can appear under unsanitary conditions such as poor hygiene, inadequate hoof trimming among other causes. It primarily affects dairy cattle and has been known to lower the quantity of milk produced, however the milk quality remains unaffected.
+
+[[Mycobacterium vaccae]] is a non pathogenic, possibly even beneficial bacteria, that is seen naturally in soil;<ref name="immune">{{cite journal |pages=756–72 |doi=10.1016/j.neuroscience.2007.01.067 |pmc=1868963 |title=Identification of an immune-responsive mesolimbocortical serotonergic system: Potential role in regulation of emotional behavior |year=2007 |last1=Lowry |first1=C.A. |last2=Hollis |first2=J.H. |last3=De Vries |first3=A. |last4=Pan |first4=B. |last5=Brunet |first5=L.R. |last6=Hunt |first6=J.R.F. |last7=Paton |first7=J.F.R. |last8=Van Kampen |first8=E. |last9=Knight |first9=D.M.| displayauthors = 8 |journal=Neuroscience |volume=146 |issue=2 |pmid=17367941}}</ref> that was first isolated from cow dung.<ref name=dung>{{cite web| url=http://www.tbalert.org.uk/news_press/documents/XDRTBarticle.pdf |title=Extremely drug resistant tuberculosis – is there hope for a cure?|publisher=[[TB Alert]] – the UK's National Tuberculosis Charity |accessdate=2 April 2007}}</ref>
+
+==Oxen== <!-- This section is linked from [[Babylonian law]] -->
+{{Main|Ox}}
+[[File:India.Mumbai.04.jpg|thumb|Draft [[Zebus]] in [[Mumbai]], [[Maharashtra]], India]]
+'''Oxen''' (singular '''ox''') are cattle trained as [[draft animal]]s. Often they are adult, [[castration|castrated]] males of larger breeds, although females and [[bull]]s are also used in some areas. Usually, an [[ox]] is over four years old due to the need for training and to allow it to grow to full size. Oxen are used for [[plowing]], [[transport]], hauling cargo, grain-grinding by trampling or by powering machines, [[irrigation]] by powering pumps, and [[wagon]] drawing. Oxen were commonly used to skid logs in forests, and sometimes still are, in low-impact, select-cut logging. Oxen are most often used in teams of two, paired, for light work such as [[cart]]ing, with additional pairs added when more power is required, sometimes up to a total of 20 or more.
+[[File:Traditional Farming Methods and Equipments.jpg|thumb|Oxen used in Plowing]]
+An ox is a mature bovine which has learned to respond appropriately to a [[teamster]]'s signals. These signals are given by verbal commands or by noise (whip cracks). Verbal commands vary according to dialect and local tradition.  In one tradition in North America, the commands are:{{citation needed|date=June 2010}}:
+* "Back up": go backwards
+* "Gee": turn right
+* "Get up": walk forward
+* "Haw": turn left
+* "Whoa": stop
+[[File:Sixten.jpg|right|thumb|Riding an ox in [[Hova, Sweden|Hova]], Sweden]]
+Oxen can pull harder and longer than [[horse]]s. Though not as fast as horses, they are less prone to injury because they are more sure-footed.
+
+Many oxen are used worldwide, especially in [[Developing country|developing countries]].  About 11.3 million draft oxen are used in sub-Saharan Africa.<ref>Muruvimi, F. and J. Ellis-Jones.  1999.  A farming systems approach to improving draft animal power in Sub-Saharan Africa. In:  Starkey, P. and P. Kaumbutho.  1999.  Meeting the challenges of animal traction.  Intermediate Technology Publications, London.  pp. 10–19.</ref>  In India, the number of draft cattle in 1998 was estimated at 65.7 million head.<ref>Phaniraja, K. L. and H. H. Panchasara.  2009.  Indian draught animals power.  Veterinary World 2:404–407.</ref> About half the world's crop production is thought to depend on land preparation (such as plowing) made possible by animal traction.<ref>Nicholson, C. F, R. W. Blake, R. S. Reid and J. Schelhas.  2001.  Environmental impacts of livestock in the developing world.  Environment 43(2): 7–17.</ref>
+[[File:OftheOX.jpg|thumb|The "Ure-Ox" ([[Aurochs]]) by [[Edward Topsell]], 1658]]
+
+== Religion, traditions and folklore ==
+{{Main|Cattle in religion}}
+{{further|Cattle slaughter in India}}
+
+=== Hindu tradition ===
+[[File:CowHA.jpg|thumb|upright|In [[Hinduism]], the cow is a symbol of wealth, strength, abundance, selfless giving and a full Earthly life.]]
+Cattle are venerated within the [[Hinduism|Hindu]] religion of India. According to [[Historical Vedic religion|Vedic]] scriptures they are to be treated with the same respect 'as one's mother'.<ref>{{cite web|url=http://www.sacred-texts.com/hin/m13/m13b041.htm |title=Mahabharata, Book 13-Anusasana Parva, Section LXXVI |publisher=Sacred-texts.com |accessdate=15 October 2013}}</ref> They appear in numerous stories from the [[Purana]]s and [[Veda]]s. The deity [[Krishna]] was brought up in a family of cowherders, and given the name [[Govinda]] (protector of the cows). Also, [[Shiva]] is traditionally said to ride on the back of a bull named [[Nandi (bull)|Nandi]].
+
+Slaughter of cows (including oxen, bulls and calves) is forbidden by law in several states of the Indian Union. [[McDonalds]] outlets in India do not serve any beef burgers. At one time, the death sentence was imposed for killing a cow in India.<ref>{{cite web |url=http://newindianexpress.com/opinion/article158600.ece |title=Save the cow, save earth |publisher=Express Buzz |author=Subramanian Swamy |date=21 November 2001 |accessdate=27 November 2010}}</ref> According to a [[Lodi News-Sentinel]] news story written in the 1960s, in then contemporary [[Nepal]]  an individual could serve three months in jail for killing a pedestrian, but one year for injuring a cow, and life imprisonment for killing a cow.<ref>{{cite web |url=http://news.google.com/newspapers?id=oegzAAAAIBAJ&sjid=5O4HAAAAIBAJ&dq=india%20cow%20killing%20life-imprisonment&pg=6924%2C2401380 |title=Injured cow in Nepal is serious matter |publisher=[[Yahoo! News]] |accessdate=27 November 2010}}</ref>
+
+=== Other traditions ===
+[[File:UK Durham Dun-Cow.jpg|thumb|upright|Legend of the founding of [[Durham Cathedral]] is that monks carrying the body of [[Saint Cuthbert]] were led to the location by a milk maid who had lost her [[dun cow]], which was found resting on the spot.]]
+[[File:Norske Folkelivsbilleder 08 - En Aften ved Sæteren (Knud Bergslien).jpg|thumb|200px| An idealized depiction of girl cow herders in 19th-century Norway by [[Knud Bergslien]].]]
+* The Evangelist [[St. Luke]] is depicted as an ox in [[Christian art]].
+* In [[Judaism]], as described in {{bibleverse||Numbers|19:2|HE}}, the ashes of a sacrificed unblemished [[red heifer]] that has never been yoked can be used for [[ritual purification]] of people who came into contact with a corpse.
+* The ox is one of the 12-year cycle of animals which appear in the [[Chinese zodiac]] related to the [[Chinese calendar]]. See: [[Ox (Zodiac)]].
+* The constellation [[Taurus (constellation)|Taurus]] represents a bull.
+* An apocryphal story has it that a cow started the [[Great Chicago Fire]] by kicking over a [[kerosene]] lamp. Michael Ahern, the reporter who created the cow story, admitted in 1893 that he had fabricated it for more colorful copy.
+* On 18 February 1930, [[Elm Farm Ollie]] became the first cow to fly in an [[airplane]] and also the first cow to be milked in an airplane.
+* The first known law requiring branding in North America was enacted on 5 February 1644, by Connecticut. It said that all cattle and pigs had to have a registered brand or earmark by 1 May 1644.<ref>{{cite book| last=Kane| first=J.|author2=Anzovin, S.|author3=Podell, J.| year=1997| title=[[Famous First Facts]]| location=New York, NY| publisher= [[H. W. Wilson Company]]| isbn= 0-8242-0930-3| page=5}}</ref>
+* The {{Nihongo|[[akabeko]]|赤べこ||''red cow''}} is a traditional toy from the [[Aizu]] region of Japan that is thought to ward off illness.<ref>Madden, Thomas (May 1992). "[http://www6.plala.or.jp/awia/AizuGlossary.html Akabeko]". ''OUTLOOK''. Online copy accessed 18 January 2007.</ref>
+* The case of ''[[Sherwood v. Walker]]''—involving a supposedly barren heifer that was actually pregnant—-first enunciated the concept of [[mutual mistake]] as a means of destroying the [[meeting of the minds]] in [[contract]] law. {{citation needed|date=June 2007}}
+* The [[Fula people|Fulani]] of [[West Africa]] are the world's largest nomadic cattle-herders.
+* The [[Maasai people|Maasai tribe]] of [[East Africa]] traditionally believe their god [[Engai]] entitled them to divine rights to the ownership of all cattle on earth.<ref>Patrick Mendis 2007. Glocalization: The Human Side of Globalization.. p160</ref>
+
+== In heraldry ==
+Cattle are typically represented in [[heraldry]] by the '''bull'''.
+
+<gallery>
+File:Mecklenburg Arms.svg|<center>Arms of [[Mecklenburg]] region, Germany
+File:Turin coat of arms.svg|<center>Arms of [[Turin]], Italy
+File:KNS Coa.svg|<center>Arms of [[Kaunas]], Lithuania
+File:POL Turek COA PioM.svg|<center>Arms of [[Turek, Poland]]
+File:POL Bielsk Podlaski COA.svg|<center>Arms of [[Bielsk Podlaski]], Poland
+File:Azr.png|<center>Arms of the [[Azores]]
+<!-- Commented out: File:Seasl of Nagaland.svg|Seal of [[Nagaland]] State, India -->
+</gallery>
+
+''{{See also|Ciołek coat of arms}}''
+
+== Population ==
+The world cattle population is estimated to be about 1.3 billion.<ref name="Breeds of Cattle at CATTLE TODAY" />
+The following table shows the cattle population in 2009<ref>[http://www.cattlenetwork.com/World-Report---Cattle-Population-By-Country/2008-06-02/Article.aspx?oid=600361]{{dead link|date=April 2012}}</ref>
+
+{{as of|2003}}, the continent of Africa has about 231 million head of cattle, raised in both traditional and non-traditional systems, but are often an "integral" part of the culture and way of life.<ref>http://www.nepad-caadp.net/pdf/A0586e03.pdf</ref><!---http://cattletoday.info/ suggests 195 million in 2013--->
+
+{| class="wikitable sortable"
+|+ {{visualizer| Cattle population |chart=bar |link=View diagram}}
+! Region !! Cattle population
+|-
+|India|| 285,000,000 (By 2003)<ref>{{cite book|title=80 Questions to Understand India|author=Murad Ali Baig|year=2011|page=172|url=https://books.google.com/books?id=GM9rjBn0LZgC|publisher=[[Jaico Publishing House]]}}</ref>
+|-
+|Brazil|| 187,087,000
+|-
+|China|| 139,721,000
+|-
+|USA|| 96,669,000
+|-
+|[[European Union]] || 87,650,000
+|-
+|Argentina || 51,062,000
+|-
+|Pakistan || 38,300,000
+|-
+|Australia|| 29,202,000
+|-
+|Mexico|| 26,489,000
+|-
+|Russian Federation|| 18,370,000
+|-
+|South Africa|| 14,187,000
+|-
+|Canada|| 13,945,000
+|-
+|Other|| 49,756,000
+|}
+
+== See also ==
+{{portal|Agriculture and Agronomy|Animals}}
+{{colbegin|colwidth=20em}}
+* [[1966 anti-cow slaughter agitation]]
+* [[Aurochs]] ([[extinct]])
+* [[Bovine genome]]
+* [[Cattle Health Initiative|British Cattle Health Initiative]]
+* [[Bull-baiting]]
+* [[Bullocky]]
+* [[Bulls and Cows]] (game)
+* [[Cattle age determination]]
+* [[Cattle judging]]
+* [[Cattle raiding]]
+* [[Cow tipping]]
+* [[Cowboy]]
+* [[Dairy farming]]
+* [[Dzo]]
+* [[Factory farming]]
+* [[:Category:Individual cattle]]
+* [[List of cattle breeds]]
+* [[List of domesticated animals]]
+* [[Ranch]]
+{{colend}}
+
+{{Clear right}}
+
+== References ==
+{{Reflist |colwidth=30em |refs=
+<ref name="MSW3Bostaurus">{{MSW3 Artiodactyla|id=14200687|heading=''Bos taurus''}}</ref>
+}}
+
+==Notes==
+{{reflist|group=note}}
+
+==Further reading==
+{{Sister project links|wikt=cattle|b=Raising Cattle}}
+{{Commons|Bos taurus}}
+{{Commons|Bull|Bull (cattle)}}
+{{refbegin}}
+* Bhattacharya, S. 2003. [http://www.newscientist.com/article.ns?id=dn4220 Cattle ownership makes it a man's world]. ''Newscientist.com''. Retrieved 26 December 2006.
+* Cattle Today (CT). 2006. Website. [http://www.cattle-today.com/ Breeds of cattle]. ''Cattle Today''. Retrieved 26 December 2006
+* Clay, J. 2004. ''World Agriculture and the Environment: A Commodity-by-Commodity Guide to Impacts and Practices''. Washington, D.C., USA: Island Press. ISBN 1-55963-370-0.
+* Clutton-Brock, J. 1999. ''A Natural History of Domesticated Mammals''. Cambridge UK : Cambridge University Press. ISBN 0-521-63495-4.
+* {{cite book|first=Herman R.|last=Purdy|author2=R. John Dawes |author3=Dr. Robert Hough |url=http://www.breedsofcattle.net/|title=Breeds Of Cattle|edition=2nd|year=2008}} – A visual textbook containing History/Origin, Phenotype & Statistics of 45 breeds.
+* Huffman, B. 2006. [http://www.ultimateungulate.com/ ''The ultimate ungulate page'']. ''UltimateUngulate.com''. Retrieved 26 December 2006.
+* Invasive Species Specialist Group (ISSG). 2005. [http://www.issg.org/database/species/ecology.asp?si=172&fr=1&sts=sss ''Bos taurus'']. ''Global Invasive Species Database''.
+* Nowak, R.M. and Paradiso, J.L. 1983. ''Walker's Mammals of the World''. Baltimore, Maryland, USA: The Johns Hopkins University Press. ISBN 0-8018-2525-3
+* Oklahoma State University (OSU). 2006. [http://www.ansi.okstate.edu/breeds/cattle ''Breeds of Cattle'']. Retrieved 5 January 2007.
+* Public Broadcasting Service (PBS). 2004. [http://www.pbs.org/wnet/nature/holycow/index.html Holy cow]. ''PBS Nature''. Retrieved 5 January 2007.
+* Rath, S. 1998. ''The Complete Cow''. Stillwater, Minnesota, USA: Voyageur Press. ISBN 0-89658-375-9.
+* Raudiansky, S. 1992. ''The Covenant of the Wild''. New York: William Morrow and Company, Inc. ISBN 0-688-09610-7.
+* Spectrum Commodities (SC). 2006. [http://www.spectrumcommodities.com/education/commodity/lc.html Live cattle]. ''Spectrumcommodities.com''. Retrieved 5 January 2007.
+* Voelker, W. 1986. ''The Natural History of Living Mammals''. Medford, New Jersey, USA: Plexus Publishing, Inc. ISBN 0-937548-08-1.
+* Yogananda, P. 1946. ''The Autobiography of a Yogi''. Los Angeles, California, USA: Self Realization Fellowship. ISBN 0-87612-083-4.
+{{refend}}
+
+{{Artiodactyla|R.4}}
+{{Heraldic creatures}}
+
+[[Category:Cattle| ]]
+[[Category:Animals described in 1758]]
+[[Category:Herbivorous animals]]
+[[Category:Mammals with sequenced genomes]]
