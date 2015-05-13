@@ -84,8 +84,7 @@ class AnimalService
         }
         catch (IOException ex)
         {
-            throw new EncyclopediaException(_animal, urlString,
-                    "Internet problems");
+            throw new EncyclopediaException(_animal, urlString);
         }
     }
 
