@@ -1,51 +1,85 @@
 import java.io.BufferedReader;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.net.URLConnection;
+import java.util.Collection;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Map;
+import java.util.Set;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 class AnimalService
 {
-    private Map<String, String> _animals;
+    private Map<String, Animal> _animals;
+
     private String _animal;
     private String _description;
+    private String _name;
+    private String _classis;
 
     public AnimalService()
     {
         _animals = new HashMap<>();
     }
 
-    public String describe(String givenAnimal) throws EncyclopediaException
+    private void detectName()
+    {
+        Matcher matcher = names.matcher(_description);
+        matcher.find();
+        _name = matcher.group(1);
+    }
+
+    private static final Pattern names = Pattern.compile("\\|\\s*+name\\s*+=\\s*+([\\w ]++)");
+
+    private void detectClassis()
+    {
+        Matcher matcher = classises.matcher(_description);
+        matcher.find();
+        _classis = matcher.group(1);
+    }
+
+    private void detectNameAndClassis()
+    {
+        detectName();
+        detectClassis();
+    }
+
+    private static final Pattern classises = Pattern.compile("\\|\\s*+classis\\s*+=\\s*+(\\w++)");
+
+    public Animal describe(String givenAnimal) throws EncyclopediaException
     {
         _animal = givenAnimal;
         normalizeAnimal();
-        _description = _animals.get(_animal);
-        if (_description == null)
+        Animal animal = _animals.get(_animal);
+        if (animal == null)
         {
             System.out.println("Hmm, let me see...");
             consultWikipedia();
             String animalBeforeRedirect = _animal;
             resolveRedirect();
-            removeCurlyBracedMetaData();
+
             removeEmphasizers();
             removeHyperlinks();
             removeFiles();
             removeReferences();
+            detectNameAndClassis();
+            removeCurlyBracedMetaData();
             retainFirstSentence();
-            _animals.put(animalBeforeRedirect, _description);
+
+            animal = new Animal(_name, _classis, _description);
+
+            _animals.put(animalBeforeRedirect, animal);
             if (_animal != animalBeforeRedirect)
             {
                 normalizeAnimal();
-                _animals.put(_animal, _description);
+                _animals.put(_animal, animal);
             }
         }
-        return _description;
+        return animal;
     }
 
     private void normalizeAnimal()
@@ -172,4 +206,17 @@ class AnimalService
 
     private static final Pattern sentences = Pattern.compile(
             "^([\\w][^.]*+\\.)\\s", Pattern.MULTILINE);
+
+    public Collection<Animal> getMammals()
+    {
+        Set<Animal> puffer = new HashSet<Animal>();
+        for (Animal animal : _animals.values())
+        {
+            if (animal.isMammal())
+            {
+                puffer.add(animal);
+            }
+        }
+        return puffer;
+    }
 }

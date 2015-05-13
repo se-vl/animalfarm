@@ -1,3 +1,4 @@
+import java.util.Collection;
 import java.util.Scanner;
 
 class REPL
@@ -42,8 +43,19 @@ class REPL
     {
         try
         {
-            String description = _animalService.describe(_line);
-            System.out.println(description);
+            if (_line.equals("@mammals"))
+            {
+                Collection<Animal> mammals = _animalService.getMammals();
+                for (Animal animal : mammals)
+                {
+                    System.out.println(animal.getName());
+                }
+            }
+            else
+            {
+                Animal animal = _animalService.describe(_line);
+                System.out.println(animal);
+            }
         }
         catch (EncyclopediaException ex)
         {
